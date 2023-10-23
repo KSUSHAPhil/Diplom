@@ -7,7 +7,7 @@
 
 ## Документация
 * [Чек-лист](https://github.com/KSUSHAPhil/Diplom/blob/main/check.xlsx)
-* [Тест-кейсы](https://github.com/KSUSHAPhil/Diplom/blob/main/cases.xlsx)
+* [Тест-кейсы](https://github.com/KSUSHAPhil/Diplom/blob/main/cases2.xlsx)
 
 ## Перечень используемых инструментов
 
